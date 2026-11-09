@@ -1,0 +1,67 @@
+{
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/start.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/L.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/R.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/L.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/R.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2L.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2LL.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2R.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2L.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2LL.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S2R.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3L.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3R.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3L.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3LL.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3LR.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3LL.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3C.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3LR.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3C.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3C.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3CL.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3CR.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3CL.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3E.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3CR.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3E.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3RR.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3E.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3E.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4L.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4R.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S3R.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4L.gif",
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4R.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4L.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/start.gif"
+  ],
+  "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/S4R.gif": [
+    "C:\\Users\\Owner\\Desktop\\programs\\loop_engine\\demos\\demo/start.gif"
+  ]
+}

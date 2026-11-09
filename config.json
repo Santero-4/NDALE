@@ -1,0 +1,27 @@
+{
+  "graph": {
+    "start.gif" : ["L.gif", "R.gif"],
+    "L.gif": ["S2.gif"],
+    "R.gif": ["S2.gif"],
+    "S2.gif": ["S2L.gif", "S2LL.gif", "S2R.gif"],
+    "S2L.gif": ["S3.gif"],
+    "S2LL.gif": ["S3.gif"],
+    "S2R.gif": ["S3.gif"],
+    "S3.gif": ["S3L.gif", "S3R.gif"],
+    "S3L.gif": ["S3LL.gif", "S3LR.gif"],
+    "S3LL.gif": ["S3C.gif"],
+    "S3LR.gif": ["S3C.gif"],
+    "S3C.gif": ["S3CL.gif", "S3CR.gif"],
+    "S3CL.gif": ["S3E.gif"],
+    "S3CR.gif": ["S3E.gif"],
+    "S3RR.gif": ["S3E.gif"],
+    "S3E.gif": ["S4L.gif", "S4R.gif"],
+    "S3R.gif": ["S4L.gif", "S4R.gif"],
+    "S4L.gif": ["start.gif"],
+    "S4R.gif": ["start.gif"]
+  },
+  "settings": {
+    "choice-mode": "OFF",
+    "cache-thumbnails": "OFF"
+}
+}
